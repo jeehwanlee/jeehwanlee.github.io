@@ -18,7 +18,7 @@ navbar-links:
 
 # title text 대신 이미지 사용하고 싶은 경우 설정
 # then specify the following parameter
-#title-img: "background.jpg"
+#title-img: "/assets/background.jpg"
 
 
 # --- Footer options --- #
