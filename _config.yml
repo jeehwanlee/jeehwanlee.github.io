@@ -15,17 +15,12 @@ navbar-links:
   Career: "career"
   CV: "publication"
   Project: "project"
-  GitHub: "https://github.com/jeehwanlee"
   Contact: "https://www.mju.ac.kr/arch/2246/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZmwlMkZhcmNoJTJGMTklMkYxMTE5MiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2c3JjaENvbHVtbiUzRCUyNnNyY2hXcmQlM0QlMjY%3D"
 
-# [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
-avatar: "/assets/img/seokho-square-2.jpg"
-# 원형 아바타 이미지 여부 `true` 또는 `false`
-round-avatar: false
 
 # title text 대신 이미지 사용하고 싶은 경우 설정
 # then specify the following parameter
-#title-img: "2.jpg"
+#title-img: "2.jfif"
 
 
 # --- Footer options --- #
@@ -35,7 +30,6 @@ round-avatar: false
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "jeehwanlee@mju.ac.kr"
-  github: jeehwanlee
 #  twitter: daattali
 #  rss: true
 #  reddit: yourname
@@ -58,8 +52,8 @@ social-network-links:
 # Select which social network share links to show in posts
 share-links-active:
 #  twitter: true
-  facebook: true
-  linkedin: true
+  facebook: false
+  linkedin: false
 #  vk: false
 
 # How to display the link to your website in the footer
