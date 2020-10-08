@@ -13,7 +13,6 @@ author: Jeehwan Lee
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
   CV: "/assets/[CV]_Jeehwan Lee (10052020).pdf"
-  PROJECT: "2021 Solar Decathlon Design Challege.md"
   Contact: "https://www.mju.ac.kr/arch/2246/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZmwlMkZhcmNoJTJGMTklMkYxMTE5MiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2c3JjaENvbHVtbiUzRCUyNnNyY2hXcmQlM0QlMjY%3D"
 
 
