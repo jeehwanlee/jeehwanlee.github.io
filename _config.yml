@@ -12,9 +12,7 @@ author: Jeehwan Lee
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
-  Career: "career"
   CV: "publication"
-  Project: "project"
   Contact: "https://www.mju.ac.kr/arch/2246/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZmwlMkZhcmNoJTJGMTklMkYxMTE5MiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2c3JjaENvbHVtbiUzRCUyNnNyY2hXcmQlM0QlMjY%3D"
 
 
@@ -84,9 +82,8 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+
+#page-img: "/assets/background.jpg"
 
 # --- Web Statistics Section --- #
 
