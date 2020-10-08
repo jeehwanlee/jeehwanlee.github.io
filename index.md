@@ -2,6 +2,7 @@
 layout: page
 title: Dr. Jeehwan Lee
 subtitle: College of Architecture, Myongji University
+cover-image: /assets/img/2.jpg
 ---
 
 <br/>
