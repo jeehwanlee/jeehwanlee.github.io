@@ -1,6 +1,6 @@
 ---
 layout: page
-title: building_design_technology
+title: building·design·technology
 subtitle: College of Architecture, Myongji University
 cover-image: /assets/background.jpg
 ---
