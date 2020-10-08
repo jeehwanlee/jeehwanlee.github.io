@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dr. Jeehwan Lee
+title: building_design_technology
 subtitle: College of Architecture, Myongji University
 cover-image: /assets/background.jpg
 ---
